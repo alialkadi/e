@@ -35,7 +35,7 @@ import { UpdateuserinfoComponent } from './components/updateuserinfo/updateuseri
 import { SearchPipe } from './pipes/search.pipe';
 import { NgxSpinnerModule } from 'ngx-spinner';
 import { LoadingInterceptor } from './interceptors/loading.interceptor';
-import { NgxNavbarModule } from 'ngx-bootstrap-navbar';
+
 import { UserInfoComponent } from './components/user-info/user-info.component';
 
 @NgModule({
